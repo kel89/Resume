@@ -267,3 +267,12 @@ Last Updated on \today
 \newcommand{\mysql}[1]{
     \includegraphics[scale=.225, trim={0 0.15cm 0cm 0cm}]{icons/main/mysql.png}\hspace{0.1cm}
 }
+\newcommand{\googlecloud}[1]{
+    \includegraphics[scale=.225, trim={0 0.15cm 0cm 0cm}]{icons/main/googlecloud.png}\hspace{0.1cm}
+}
+\newcommand{\graphql}[1]{
+    \includegraphics[scale=.225, trim={0 0.15cm 0cm 0cm}]{icons/main/graphql.png}\hspace{0.1cm}
+}
+\newcommand{\sql}[1]{
+    \includegraphics[scale=.225, trim={0 0.15cm 0cm 0cm}]{icons/main/sql.png}\hspace{0.1cm}
+}

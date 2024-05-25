@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  18 MAY 2023 09:11
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  23 AUG 2023 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -846,65 +846,73 @@ File: icons/main/phone.png Graphic file (type QTm)
  <use  "icons/main/phone.png" >
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <7> not available
-(Font)              size <9.5> substituted on input line 51.
+(Font)              size <9.5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <5> not available
-(Font)              size <9.5> substituted on input line 51.
+(Font)              size <9.5> substituted on input line 57.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 51.
+(Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 51.
+(Font)              <5> on input line 57.
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' undefined
-(Font)              using `TU/inter-light(0)/m/n' instead on input line 67.
+(Font)              using `TU/inter-light(0)/m/n' instead on input line 72.
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
 
 LaTeX Font Warning: Font shape `TU/sourcesanspro-SemiBold(0)/bx/n' undefined
-(Font)              using `TU/sourcesanspro-SemiBold(0)/m/n' instead on input line 68.
-
-
-LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <12> not available
-(Font)              size <9.5> substituted on input line 68.
-
-
-LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <12> not available
-(Font)              size <9.5> substituted on input line 69.
+(Font)              using `TU/sourcesanspro-SemiBold(0)/m/n' instead on input line 74.
 
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <8> not available
-(Font)              size <9.5> substituted on input line 70.
+(Font)              size <9.5> substituted on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <8> not available
+(Font)              size <9.5> substituted on input line 116.
+
+
+LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <10> not available
+(Font)              size <9.5> substituted on input line 205.
+
+
+LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <12> not available
+(Font)              size <9.5> substituted on input line 206.
+
+
+LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <12> not available
+(Font)              size <9.5> substituted on input line 207.
 
 File: icons/main/react.png Graphic file (type QTm)
 <use  "icons/main/react.png" >
 File: icons/main/python.png Graphic file (type QTm)
  <use  "icons/main/python.png" >
-File: icons/main/firebase.png Graphic file (type QTm)
- <use  "icons/main/firebase.png" >
-File: icons/main/postgresql.png Graphic file (type QTm)
- <use  "icons/main/postgresql.png" >
-File: icons/main/react.png Graphic file (type QTm)
- <use  "icons/main/react.png" >
+File: icons/main/gcp.png Graphic file (type QTm)
+ <use  "icons/main/gcp.png" >
+File: icons/main/sql.png Graphic file (type QTm)
+ <use  "icons/main/sql.png" >
 File: icons/main/python.png Graphic file (type QTm)
  <use  "icons/main/python.png" >
-File: icons/main/firebase.png Graphic file (type QTm)
- <use  "icons/main/firebase.png" >
-File: icons/main/postgresql.png Graphic file (type QTm)
- <use  "icons/main/postgresql.png" >
+File: icons/main/sql.png Graphic file (type QTm)
+ <use  "icons/main/sql.png" >
+File: icons/main/gcp.png Graphic file (type QTm)
+ <use  "icons/main/gcp.png" >
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <6> not available
-(Font)              size <9.5> substituted on input line 76.
+(Font)              size <9.5> substituted on input line 217.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 76.
+(Font)              <8> on input line 217.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 76.
+(Font)              <6> on input line 217.
 File: icons/main/aws.png Graphic file (type QTm)
 <use  "icons/main/aws.png" >
+File: icons/main/gcp.png Graphic file (type QTm)
+ <use  "icons/main/gcp.png" >
 File: icons/main/react.png Graphic file (type QTm)
  <use  "icons/main/react.png" >
 File: icons/main/python.png Graphic file (type QTm)
@@ -915,14 +923,14 @@ File: icons/main/react.png Graphic file (type QTm)
  <use  "icons/main/react.png" >
 File: icons/main/python.png Graphic file (type QTm)
  <use  "icons/main/python.png" >
-File: icons/main/firebase.png Graphic file (type QTm)
- <use  "icons/main/firebase.png" >
+File: icons/main/gcp.png Graphic file (type QTm)
+ <use  "icons/main/gcp.png" >
 File: icons/main/react.png Graphic file (type QTm)
  <use  "icons/main/react.png" >
 File: icons/main/d3.png Graphic file (type QTm)
  <use  "icons/main/d3.png" >
-File: icons/main/postgresql.png Graphic file (type QTm)
- <use  "icons/main/postgresql.png" >
+File: icons/main/sql.png Graphic file (type QTm)
+ <use  "icons/main/sql.png" >
 File: icons/main/python.png Graphic file (type QTm)
  <use  "icons/main/python.png" >
 File: icons/main/python.png Graphic file (type QTm)
@@ -947,26 +955,22 @@ File: icons/main/tableau.png Graphic file (type QTm)
  <use  "icons/main/tableau.png" >
 File: icons/main/mysql.png Graphic file (type QTm)
  <use  "icons/main/mysql.png" >
-
-LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <8> not available
-(Font)              size <9.5> substituted on input line 111.
-
 File: icons/main/aws.png Graphic file (type QTm)
-<use  "icons/main/aws.png" >
+ <use  "icons/main/aws.png" >
+File: icons/main/react.png Graphic file (type QTm)
+ <use  "icons/main/react.png" >
+File: icons/main/graphql.png Graphic file (type QTm)
+ <use  "icons/main/graphql.png" >
 File: icons/main/python.png Graphic file (type QTm)
  <use  "icons/main/python.png" >
-
-LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <10> not available
-(Font)              size <9.5> substituted on input line 157.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
-[1
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
+ [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
  (./PlushCV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 308.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 308.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -975,15 +979,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
  ) 
 Here is how much of TeX's memory you used:
- 19312 strings out of 493005
- 359784 string characters out of 6134596
- 456189 words of memory out of 5000000
- 23121 multiletter control sequences out of 15000+600000
+ 19316 strings out of 493005
+ 359819 string characters out of 6134596
+ 457414 words of memory out of 5000000
+ 23125 multiletter control sequences out of 15000+600000
  7449 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 52i,11n,119p,10553b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,11n,119p,10553b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PlushCV.xdv (1 page, 41792 bytes).
+Output written on PlushCV.xdv (1 page, 43116 bytes).
