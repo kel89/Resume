@@ -234,6 +234,9 @@ Last Updated on \today
 
 % Tech Stack Icons
 %% Got icons here: https://icons8.com/icons/set/programming
+\newcommand{\angular}[1]{
+    \includegraphics[scale=.225, trim={0 0.15cm 0cm 0cm}]{icons/main/angular.png}\hspace{0.1cm}
+}
 \newcommand{\python}[1]{
     \includegraphics[scale=.225, trim={0 0.15cm 0cm 0cm}]{icons/main/python.png}\hspace{0.1cm}
 }

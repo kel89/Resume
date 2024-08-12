@@ -1,10 +1,15 @@
-PlushCV
-=========================
+# PlushCV
 
-A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to  Computer Science students.
-Has a bunch of font options as listed in Preview. Inspired by [**deedy-resume**](https://github.com/deedy/Deedy-Resume). 
+---
 
-Easiest way to create your own is to use the Overleaf template linked below to edit and compile. 
+## Notes
+
+When building locally I had to run `lualatex PlushCV.tex` manually from the terminal.
+
+A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to Computer Science students.
+Has a bunch of font options as listed in Preview. Inspired by [**deedy-resume**](https://github.com/deedy/Deedy-Resume).
+
+Easiest way to create your own is to use the Overleaf template linked below to edit and compile.
 
 It is licensed under the Apache License 2.0.
 
@@ -15,7 +20,7 @@ It is licensed under the Apache License 2.0.
 ## Availability
 
 1. OpenFonts version - [as a direct download](https://github.com/deedydas/Deedy-Resume/raw/master/OpenFonts/deedy_resume-openfont.pdf)
-2. **Overleaf**.com 
+2. **Overleaf**.com
 
 ## Previews
 
@@ -59,9 +64,9 @@ It is licensed under the Apache License 2.0.
 
 ### v1.1
 
-  1. Added more font options.
-  2. Added icons for contact line, fixed alignment.
-  3. Removed "Awards".
+1. Added more font options.
+2. Added icons for contact line, fixed alignment.
+3. Removed "Awards".
 
 ## TODO
 
@@ -78,9 +83,9 @@ It is licensed under the Apache License 2.0.
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-    
+
        http://www.apache.org/licenses/LICENSE-2.0
-    
+
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
