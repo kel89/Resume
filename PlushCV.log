@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.25)  12 AUG 2024 10:34
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.25)  15 AUG 2024 14:19
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/kennethlipke/Documents/Resume/PlushCV.tex
@@ -593,73 +593,69 @@ Package fontspec Info: Font family 'OfficeCodeProD-Light(0)' created for font
 <icons/main/home.png, id=40, 100.375pt x 100.375pt>
 File: icons/main/home.png Graphic file (type png)
 <use icons/main/home.png>
-Package luatex.def Info: icons/main/home.png  used on input line 57.
+Package luatex.def Info: icons/main/home.png  used on input line 58.
 (luatex.def)             Requested size: 16.54176pt x 14.90576pt.
 <icons/main/github.png, id=42, 100.375pt x 100.375pt>
 File: icons/main/github.png Graphic file (type png)
 <use icons/main/github.png>
-Package luatex.def Info: icons/main/github.png  used on input line 57.
+Package luatex.def Info: icons/main/github.png  used on input line 58.
 (luatex.def)             Requested size: 25.70331pt x 14.90576pt.
 <icons/main/linkedin.png, id=44, 100.375pt x 100.375pt>
 File: icons/main/linkedin.png Graphic file (type png)
 <use icons/main/linkedin.png>
-Package luatex.def Info: icons/main/linkedin.png  used on input line 57.
+Package luatex.def Info: icons/main/linkedin.png  used on input line 58.
 (luatex.def)             Requested size: 25.70331pt x 14.90576pt.
 <icons/main/mail.png, id=46, 100.375pt x 100.375pt>
 File: icons/main/mail.png Graphic file (type png)
 <use icons/main/mail.png>
-Package luatex.def Info: icons/main/mail.png  used on input line 57.
+Package luatex.def Info: icons/main/mail.png  used on input line 58.
 (luatex.def)             Requested size: 25.70331pt x 14.90576pt.
 <icons/main/phone.png, id=48, 100.375pt x 100.375pt>
 File: icons/main/phone.png Graphic file (type png)
 <use icons/main/phone.png>
-Package luatex.def Info: icons/main/phone.png  used on input line 57.
+Package luatex.def Info: icons/main/phone.png  used on input line 58.
 (luatex.def)             Requested size: 25.70331pt x 14.90576pt.
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <7> not available
-(Font)              size <9.5> substituted on input line 57.
+(Font)              size <9.5> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <5> not available
-(Font)              size <9.5> substituted on input line 57.
+(Font)              size <9.5> substituted on input line 58.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 57.
+(Font)              <7> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 57.
+(Font)              <5> on input line 58.
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' undefined
-(Font)              using `TU/inter-light(0)/m/n' instead on input line 72.
+(Font)              using `TU/inter-light(0)/m/n' instead on input line 73.
 
 
 LaTeX Font Warning: Font shape `TU/sourcesanspro-SemiBold(0)/b/n' undefined
-(Font)              using `TU/sourcesanspro-SemiBold(0)/m/n' instead on input line 74.
+(Font)              using `TU/sourcesanspro-SemiBold(0)/m/n' instead on input line 75.
 
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <8> not available
-(Font)              size <9.5> substituted on input line 101.
+(Font)              size <9.5> substituted on input line 102.
 
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <8> not available
-(Font)              size <9.5> substituted on input line 115.
+(Font)              size <9.5> substituted on input line 116.
 
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <10> not available
-(Font)              size <9.5> substituted on input line 203.
-
-
-LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <12> not available
 (Font)              size <9.5> substituted on input line 204.
 
 
-LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <12> not available
+LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <12> not available
 (Font)              size <9.5> substituted on input line 205.
 
+
+LaTeX Font Warning: Font shape `TU/inter-light(0)/m/sc' in size <12> not available
+(Font)              size <9.5> substituted on input line 206.
+
 <icons/main/angular.png, id=50, 48.18pt x 48.18pt>
-File: icons/main/angular.png Graphic file (type png)
-<use icons/main/angular.png>
-Package luatex.def Info: icons/main/angular.png  used on input line 210.
-(luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/angular.png Graphic file (type png)
 <use icons/main/angular.png>
 Package luatex.def Info: icons/main/angular.png  used on input line 211.
@@ -677,132 +673,140 @@ File: icons/main/graphql.png Graphic file (type png)
 <use icons/main/graphql.png>
 Package luatex.def Info: icons/main/graphql.png  used on input line 212.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
+File: icons/main/angular.png Graphic file (type png)
+<use icons/main/angular.png>
+Package luatex.def Info: icons/main/angular.png  used on input line 213.
+(luatex.def)             Requested size: 10.84076pt x 9.8805pt.
+File: icons/main/graphql.png Graphic file (type png)
+<use icons/main/graphql.png>
+Package luatex.def Info: icons/main/graphql.png  used on input line 213.
+(luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 <icons/main/react.png, id=52, 40.15pt x 40.15pt>
 File: icons/main/react.png Graphic file (type png)
 <use icons/main/react.png>
-Package luatex.def Info: icons/main/react.png  used on input line 224.
+Package luatex.def Info: icons/main/react.png  used on input line 225.
 (luatex.def)             Requested size: 9.03397pt x 8.0737pt.
 <icons/main/python.png, id=53, 48.18pt x 48.18pt>
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 224.
+Package luatex.def Info: icons/main/python.png  used on input line 225.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 <icons/main/gcp.png, id=54, 48.18pt x 48.18pt>
 File: icons/main/gcp.png Graphic file (type png)
 <use icons/main/gcp.png>
-Package luatex.def Info: icons/main/gcp.png  used on input line 224.
+Package luatex.def Info: icons/main/gcp.png  used on input line 225.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 <icons/main/sql.png, id=55, 48.18pt x 48.18pt>
 File: icons/main/sql.png Graphic file (type png)
 <use icons/main/sql.png>
-Package luatex.def Info: icons/main/sql.png  used on input line 224.
+Package luatex.def Info: icons/main/sql.png  used on input line 225.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 226.
+Package luatex.def Info: icons/main/python.png  used on input line 227.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/sql.png Graphic file (type png)
 <use icons/main/sql.png>
-Package luatex.def Info: icons/main/sql.png  used on input line 226.
+Package luatex.def Info: icons/main/sql.png  used on input line 227.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/gcp.png Graphic file (type png)
 <use icons/main/gcp.png>
-Package luatex.def Info: icons/main/gcp.png  used on input line 226.
+Package luatex.def Info: icons/main/gcp.png  used on input line 227.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 
 LaTeX Font Warning: Font shape `TU/inter-light(0)/m/n' in size <6> not available
-(Font)              size <9.5> substituted on input line 228.
+(Font)              size <9.5> substituted on input line 229.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 228.
+(Font)              <8> on input line 229.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 228.
+(Font)              <6> on input line 229.
 <icons/main/aws.png, id=56, 48.18pt x 48.18pt>
 File: icons/main/aws.png Graphic file (type png)
 <use icons/main/aws.png>
-Package luatex.def Info: icons/main/aws.png  used on input line 228.
+Package luatex.def Info: icons/main/aws.png  used on input line 229.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/gcp.png Graphic file (type png)
 <use icons/main/gcp.png>
-Package luatex.def Info: icons/main/gcp.png  used on input line 228.
+Package luatex.def Info: icons/main/gcp.png  used on input line 229.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/react.png Graphic file (type png)
 <use icons/main/react.png>
-Package luatex.def Info: icons/main/react.png  used on input line 230.
+Package luatex.def Info: icons/main/react.png  used on input line 231.
 (luatex.def)             Requested size: 9.03397pt x 8.0737pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 230.
+Package luatex.def Info: icons/main/python.png  used on input line 231.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 <icons/main/docker.png, id=57, 48.18pt x 48.18pt>
 File: icons/main/docker.png Graphic file (type png)
 <use icons/main/docker.png>
-Package luatex.def Info: icons/main/docker.png  used on input line 230.
+Package luatex.def Info: icons/main/docker.png  used on input line 231.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/react.png Graphic file (type png)
 <use icons/main/react.png>
-Package luatex.def Info: icons/main/react.png  used on input line 232.
+Package luatex.def Info: icons/main/react.png  used on input line 233.
 (luatex.def)             Requested size: 9.03397pt x 8.0737pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 232.
+Package luatex.def Info: icons/main/python.png  used on input line 233.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/gcp.png Graphic file (type png)
 <use icons/main/gcp.png>
-Package luatex.def Info: icons/main/gcp.png  used on input line 232.
+Package luatex.def Info: icons/main/gcp.png  used on input line 233.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/react.png Graphic file (type png)
 <use icons/main/react.png>
-Package luatex.def Info: icons/main/react.png  used on input line 234.
+Package luatex.def Info: icons/main/react.png  used on input line 235.
 (luatex.def)             Requested size: 9.03397pt x 8.0737pt.
 <icons/main/d3.png, id=58, 48.18pt x 48.18pt>
 File: icons/main/d3.png Graphic file (type png)
 <use icons/main/d3.png>
-Package luatex.def Info: icons/main/d3.png  used on input line 234.
+Package luatex.def Info: icons/main/d3.png  used on input line 235.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/sql.png Graphic file (type png)
 <use icons/main/sql.png>
-Package luatex.def Info: icons/main/sql.png  used on input line 234.
+Package luatex.def Info: icons/main/sql.png  used on input line 235.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 234.
+Package luatex.def Info: icons/main/python.png  used on input line 235.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 244.
+Package luatex.def Info: icons/main/python.png  used on input line 245.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/d3.png Graphic file (type png)
 <use icons/main/d3.png>
-Package luatex.def Info: icons/main/d3.png  used on input line 244.
+Package luatex.def Info: icons/main/d3.png  used on input line 245.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 246.
+Package luatex.def Info: icons/main/python.png  used on input line 247.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/d3.png Graphic file (type png)
 <use icons/main/d3.png>
-Package luatex.def Info: icons/main/d3.png  used on input line 246.
+Package luatex.def Info: icons/main/d3.png  used on input line 247.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/d3.png Graphic file (type png)
 <use icons/main/d3.png>
-Package luatex.def Info: icons/main/d3.png  used on input line 250.
+Package luatex.def Info: icons/main/d3.png  used on input line 251.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/aws.png Graphic file (type png)
 <use icons/main/aws.png>
-Package luatex.def Info: icons/main/aws.png  used on input line 281.
+Package luatex.def Info: icons/main/aws.png  used on input line 282.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/react.png Graphic file (type png)
 <use icons/main/react.png>
-Package luatex.def Info: icons/main/react.png  used on input line 281.
+Package luatex.def Info: icons/main/react.png  used on input line 282.
 (luatex.def)             Requested size: 9.03397pt x 8.0737pt.
 File: icons/main/graphql.png Graphic file (type png)
 <use icons/main/graphql.png>
-Package luatex.def Info: icons/main/graphql.png  used on input line 281.
+Package luatex.def Info: icons/main/graphql.png  used on input line 282.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 File: icons/main/python.png Graphic file (type png)
 <use icons/main/python.png>
-Package luatex.def Info: icons/main/python.png  used on input line 292.
+Package luatex.def Info: icons/main/python.png  used on input line 293.
 (luatex.def)             Requested size: 10.84076pt x 9.8805pt.
 [1
 
@@ -824,16 +828,16 @@ Package rerunfilecheck Info: File `PlushCV.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14101 strings out of 476447
+ 14104 strings out of 476447
  156290,1977958 words of node,token memory allocated
  527 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 71 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 2:3166,3:1094,4:717,5:1165,6:203,7:12071,8:2,9:1916,10:17,11:876
+   avail lists: 2:3198,3:1103,4:717,5:1168,6:203,7:12092,8:2,9:1943,10:17,11:876
  35825 multiletter control sequences out of 65536+600000
  73 fonts using 13184719 bytes
  94i,11n,136p,391b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/inter/inter-light.ttf><./fonts/officecodeprod/OfficeCodeProD-Light.ttf><./fonts/sourcesanspro/sourcesanspro-light.ttf><./fonts/sourcesanspro/sourcesanspro-SemiBold.ttf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on PlushCV.pdf (1 page, 96816 bytes).
+Output written on PlushCV.pdf (1 page, 96815 bytes).
 
 PDF statistics: 120 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream

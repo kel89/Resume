@@ -1,6 +1,6 @@
 # Fdb version 4
-["lualatex"] 1723480465.66342 "/Users/kennethlipke/Documents/Resume/PlushCV.tex" "PlushCV.pdf" "PlushCV" 1723480467.19584 0
-  "/Users/kennethlipke/Documents/Resume/PlushCV.tex" 1723480465.42589 10486 94194a32cb938adf8cd934bed908acc4 ""
+["lualatex"] 1723753184.33373 "/Users/kennethlipke/Documents/Resume/PlushCV.tex" "PlushCV.pdf" "PlushCV" 1723753185.70111 0
+  "/Users/kennethlipke/Documents/Resume/PlushCV.tex" 1723753184.13151 10498 a54993f92689f39a7ac18a49518e7b8f ""
   "/Users/kennethlipke/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/inter-light.luc" 1723477369.19611 996537 14cd739e3ae8def3bafa8a4cf883f295 ""
   "/Users/kennethlipke/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/inter-semibold.luc" 1723477370.01843 1041401 930863eb75a2fcfc45106db83a26c50e ""
   "/Users/kennethlipke/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1723477368.19025 128410 d0a7d6c5b84cb323c732980fd1a15945 ""
@@ -154,9 +154,9 @@
   "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1709155629 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1721925535.95575 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1721925451 12257033 0fbacfb168fc71900f4c5cc256b0a858 ""
-  "PlushCV.aux" 1723480467.03781 1177 8887274fd4db055776d9076a2b904b0d "lualatex"
-  "PlushCV.out" 1723480467.03863 956 2edf5cf1859b5e99b63d8bd2ef6835e7 "lualatex"
-  "PlushCV.tex" 1723480465.42589 10486 94194a32cb938adf8cd934bed908acc4 ""
+  "PlushCV.aux" 1723753185.55241 1177 8887274fd4db055776d9076a2b904b0d "lualatex"
+  "PlushCV.out" 1723753185.55298 956 2edf5cf1859b5e99b63d8bd2ef6835e7 "lualatex"
+  "PlushCV.tex" 1723753184.13151 10498 a54993f92689f39a7ac18a49518e7b8f ""
   "fonts/inter/inter-light.ttf" 1721834240.56824 310420 d4be01c95657978131342b1dcf829a45 ""
   "fonts/officecodeprod/OfficeCodeProD-Light.ttf" 1721834240.58003 79268 384e62cf2d81707f7da4ce242b34b213 ""
   "fonts/sourcesanspro/sourcesanspro-SemiBold.ttf" 1721834240.59008 248264 2a38a6907b27a95d738be8b50a2e1610 ""
@@ -175,7 +175,7 @@
   "icons/main/python.png" 1721834240.60191 871 6841951dd3623f17a3f6a880c3f4f0a0 ""
   "icons/main/react.png" 1721834240.60198 2352 891abbb3ef8e21f74a62a13c8de4228e ""
   "icons/main/sql.png" 1721834240.60205 800 f86409a79ad9f07aaaece03530de2e6d ""
-  "plushcv.cls" 1723480325.17328 9511 33095304c11656b01edf687487de37a8 ""
+  "plushcv.cls" 1723753162.53646 9511 33095304c11656b01edf687487de37a8 ""
   (generated)
   "/Users/kennethlipke/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
   "/Users/kennethlipke/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc"

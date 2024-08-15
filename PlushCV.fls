@@ -172,8 +172,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 INPUT ./icons/main/angular.png
 INPUT ./icons/main/angular.png
-INPUT ./icons/main/angular.png
 INPUT ./icons/main/graphql.png
+INPUT ./icons/main/graphql.png
+INPUT ./icons/main/angular.png
 INPUT ./icons/main/graphql.png
 INPUT ./icons/main/angular.png
 INPUT ./icons/main/graphql.png
